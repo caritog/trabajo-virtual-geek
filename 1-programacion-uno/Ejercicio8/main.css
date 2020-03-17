@@ -1,0 +1,18 @@
+.btn1 {
+    padding: 5px;
+    border: rgb(36, 216, 36) solid;
+    background-color: hotpink;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.btn2 {
+    padding: 5px;
+    border: rgb(36, 216, 36) solid;
+    background-color: hotpink;
+    color: #ffffff;
+}
+
+.opacity {
+    opacity: 0.3;
+}
